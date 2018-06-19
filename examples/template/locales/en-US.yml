@@ -1,0 +1,6 @@
+messages:
+    welcome: "Welcome to the statistic!"
+    notice: "Your IP address is {ip}, the language currently using is {language}."
+    time: "The current time is %s and you only have %d hours left today."
+    apples: "There are no apples.|There is an apple.|There are many apples."
+    bananas: "There are no bananas.|There is a banana.|There are %d bananas."
